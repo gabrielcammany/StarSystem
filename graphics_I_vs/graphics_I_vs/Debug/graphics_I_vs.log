@@ -1,0 +1,18 @@
+﻿  main.cpp
+c:\users\gabriel53\desktop\grafics texturas planetas\graphics_i_vs\graphics_i_vs\main.cpp(84): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+c:\users\gabriel53\desktop\grafics texturas planetas\graphics_i_vs\graphics_i_vs\main.cpp(224): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+c:\users\gabriel53\desktop\grafics texturas planetas\graphics_i_vs\graphics_i_vs\main.cpp(339): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+c:\users\gabriel53\desktop\grafics texturas planetas\graphics_i_vs\graphics_i_vs\main.cpp(345): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\gabriel53\desktop\grafics texturas planetas\graphics_i_vs\graphics_i_vs\main.cpp(350): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\gabriel53\desktop\grafics texturas planetas\graphics_i_vs\graphics_i_vs\main.cpp(544): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+c:\users\gabriel53\desktop\grafics texturas planetas\graphics_i_vs\graphics_i_vs\main.cpp(549): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\gabriel53\desktop\grafics texturas planetas\graphics_i_vs\graphics_i_vs\main.cpp(613): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+c:\users\gabriel53\desktop\grafics texturas planetas\graphics_i_vs\graphics_i_vs\main.cpp(619): warning C4305: '-=': truncamiento de 'double' a 'float'
+c:\users\gabriel53\desktop\grafics texturas planetas\graphics_i_vs\graphics_i_vs\main.cpp(661): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gabriel53\desktop\grafics texturas planetas\graphics_i_vs\graphics_i_vs\main.cpp(665): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gabriel53\desktop\grafics texturas planetas\graphics_i_vs\graphics_i_vs\main.cpp(670): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gabriel53\desktop\grafics texturas planetas\graphics_i_vs\graphics_i_vs\main.cpp(674): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  graphics_I_vs.vcxproj -> C:\Users\gabriel53\Desktop\Grafics texturas planetas\graphics_I_vs\graphics_I_vs\Debug\01-BoilerPlate.exe
+  graphics_I_vs.vcxproj -> C:\Users\gabriel53\Desktop\Grafics texturas planetas\graphics_I_vs\graphics_I_vs\Debug\01-BoilerPlate.pdb (Full PDB)
