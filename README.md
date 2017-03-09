@@ -1,12 +1,22 @@
-La tematica principal del proyecto se basa en un Sistema Planetario. Aun asi, me he  
-centrado mas en las funcionalidades que no hacer el sistema realista. 
+The theme of this project, as you can see by the title, is about a Star system. Its not focused on adding planets reallistically but more into adding OpenGL features, like rotation, transparency, etc.
 
-El sistema planetario tiene:
-- Planeta tierra con multitexturas con rotacion y iluminación completa con diffuse, specular i ambient. Shader independiente.
-- Luna que rota como centro la tierra con iluminación completa y transparencia. Mismo shader que el del planeta azul. 
-- Sol en el centro sin iluminación ya que crea el punto central de luz.
-- SkyBox con la textura de milkyway proporcionada sin iluminación. Tanto el skybox y el sol tienen el mismo shader.
-- Planeta mas pequeño que rota con el centro el sol e iluminación completa sin multitextura pero con transparencia. 
-Mismo shader que la luna.
+It has de following features:
+- Earth like planet with multitextures and rotation around the star. It has also diffuse, specular and ambient lighting. Independent shader.
+- Moon like planet that rotates around the earth. Contains same lighting as earth, also including transparency. Sharing shader with the blue planet.
+- Star in the center. It has no lighting effect as it has to simulate the light in the star system. 
+- Skybox with the milkyway texture, without lighting. Both the skybox and the star shares the same shader. 
+- Blue planet that rotates around the sun. It has de same features as the moon, full lighting and a bit of transparency.  
 
-Nota: El clipping lo he habilitado. Apretando la L se desbloquea el mouse que se mantenga en el centro.
+Controls:
+- W: Forward
+- S: Backwards
+- A: Left
+- D: Right
+- F: Down
+- R: Up
+- Z: Increase elocity
+- X: Decrease  velocity
+- V: Increase rotation
+- B: Decrease rotacion
+- L: Activate/Deactivate Mouse Lock
+- ESPACIO: Center mouse in center
