@@ -19,4 +19,4 @@ Controls:
 - V: Increase rotation
 - B: Decrease rotacion
 - L: Activate/Deactivate Mouse Lock
-- ESPACIO: Center mouse in center
+- SPACE: Center mouse in center
